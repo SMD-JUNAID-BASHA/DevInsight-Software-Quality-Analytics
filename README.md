@@ -413,5 +413,3 @@ The application starts on:
 ```text
 http://localhost:8080
 ```
-
-### 5.
